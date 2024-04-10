@@ -21,3 +21,5 @@ The project involves generating synthetic time-series data, building and trainin
 - **Improved Understanding:** Autoencoders excel in learning meaningful representations from sequential data, improving understanding and prediction of complex temporal dynamics.
 - **Decision Support:** By delivering accurate forecasts, the project assists decision-making across various domains, providing insights into future trends and optimizing resource allocation.
 - **Scalability and Interpretability:** The advantages include improved accuracy, scalability, and interpretability of forecasts, empowering stakeholders with actionable insights for informed planning and decision-making.
+
+![321167918-d99f0060-7eb2-4949-b24e-0fac6de1bad8](https://github.com/ragaviprabha-17/tnsdc-genAI/assets/114636321/615744f6-5fbf-47ed-a4f0-6b51f114d823)
