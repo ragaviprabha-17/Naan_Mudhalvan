@@ -1,5 +1,5 @@
 
-#Time-Series Forecasting with Autoencoder Neural Networks
+Time-Series Forecasting with Autoencoder Neural Networks
 
 Project Overview
 The project aims to predict future values in time-series data using autoencoder neural networks. It generates synthetic time-series data, designs and trains an autoencoder model, and applies it to generate future sequences.
